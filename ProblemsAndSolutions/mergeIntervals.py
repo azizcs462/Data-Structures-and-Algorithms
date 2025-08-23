@@ -45,3 +45,4 @@ obj = Solution()
 print(obj.mereIntervals(intervals))
 
 
+
